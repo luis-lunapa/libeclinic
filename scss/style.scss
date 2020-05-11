@@ -110,6 +110,10 @@ h1, h2, h3, h4, h5,
 		@include media-breakpoint-up(md){
 			color: $white;
 		}
+		> img {
+			width: 20px;
+			height: 10px;
+		}
 	}
 	
 	.navbar-nav {
@@ -118,12 +122,12 @@ h1, h2, h3, h4, h5,
 		}
 		> .nav-item {
 			> .nav-link {
-				font-size: 13px;
+				font-size: 30px;
 				padding-top: .9rem;
 				padding-bottom: .9rem;
 				padding-left: 20px;
 				padding-right: 20px;
-				font-weight: 400;
+				font-weight: 600;
 				color: $white;
 				@include media-breakpoint-up(lg){
 					color: $white;
