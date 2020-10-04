@@ -1,6 +1,6 @@
 	/*
   	Flaticon icon font: Flaticon
-  	Creation date: 04/10/2020 17:53
+  	Creation date: 04/10/2020 18:20
   	*/
 
 @font-face {
@@ -77,3 +77,4 @@ margin-left: 20px;
 .flaticon-plastic-surgery:before { content: "\f12c"; }
 .flaticon-gluteus-implant:before { content: "\f12d"; }
 .flaticon-liposuction:before { content: "\f12e"; }
+.flaticon-diet:before { content: "\f12f"; }
